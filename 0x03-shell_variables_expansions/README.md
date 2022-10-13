@@ -1,1 +1,1 @@
-kick
+Shell Init variables
